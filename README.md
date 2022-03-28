@@ -1,5 +1,7 @@
 ## Welcome to my page - thanks for visiting!
 
+My name is Milton Dimas and I went to USC where I majored in Political Science and minored in Organizational Leadership and Management (a fancy way of saying how to build team synergy and project management foundations. I later went on to receive my certificate in Data Analytics from USC Viterbi School of Engineering to learn valuable skills in discovery, interpretation, and visualization of meaningful patterns in data
+
 You can use the [editor on GitHub](https://github.com/mdimas2015/mdimas2015.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
